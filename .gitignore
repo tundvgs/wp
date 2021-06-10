@@ -1,0 +1,11 @@
+.env
+wp-app/wp-content/*
+!wp-app/wp-content/plugins
+!wp-app/wp-content/themes
+
+wp-app/wp-content/plugins/*
+!wp-app/wp-content/plugins/.gitkeep
+
+wp-app/wp-content/themes/*
+!wp-app/wp-content/themes/.gitkeep
+wp-app/wp-config.php
